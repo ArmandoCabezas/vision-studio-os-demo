@@ -1,0 +1,10 @@
+{
+  "name": "VISION Studio OS — Demo",
+  "short_name": "VISION OS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#f7f9fc",
+  "description": "Demostración pública de VISION Studio OS; no contiene información real de proyectos."
+}
